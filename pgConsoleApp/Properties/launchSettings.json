@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pgConsoleApp": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Repos_Git\\postgres.mylearning\\pgConsoleApp"
+    }
+  }
+}
